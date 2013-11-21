@@ -1,12 +1,12 @@
-#### contact request
+#### contact form
 
-##### name:  
+##### your name:
 [your name]
 
-##### subject:  
+##### subject:
 [your subject]
 
-##### message:  
+##### message:
 [message]
 
 * Please note Tickets and PR's in this repository are **PUBLIC** readable.  If you like to contact me in a more private way you can use my (contact form)[http://iworx.it/contact].
