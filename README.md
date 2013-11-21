@@ -1,12 +1,12 @@
-iworxit-contact
-===============
+get-in-touch-with-me
+====================
 
 Because Contact-Forms are so Web 2.0 I decided to work on a new approach for developers to contact me. And what is better
-than sending a pull-request or open a ticket right?
-
+than sending a pull-request or open a ticket right?  
+  
 So if you like to contact me please send me a bull request or open a ticket with this project and leave a note how I can 
-contact you.
+contact you.  
+  
+If you like to know more about me you can vist my website at: http://iworx.it  
 
-Cheers,
-
-Alex
+Looking forward to hearing from you soon
