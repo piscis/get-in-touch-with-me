@@ -1,4 +1,4 @@
-#### contact form
+#### Contact form
 
 ##### your name:
 [your name]
