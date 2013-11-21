@@ -5,7 +5,7 @@ Get in touch with me
 to contact me, ... and what else is better than sending a pull-request or opening a ticket on Github right?  
   
 So if you like to contact me please send me a PR or open a ticket with this project and leave a note how I can 
-contact you. There is even a (template)[ContactForm.tpl.md] for the pull request you can use.  
+contact you. There is even a [template](ContactForm.tpl.md) for the pull request you can use.  
   
 If you like to know more [me](http://iworx.it/about-me) you can vist my website at: http://iworx.it   
   
