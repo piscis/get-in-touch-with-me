@@ -11,4 +11,5 @@ If you like to know more [me](http://iworx.it/about-me) you can vist my website 
   
 Looking forward hearing from you
 
+----
 * Please note tickets and PR's in this repository are **PUBLIC** readable.  If you like to contact me in a more private way you can use my (contact form)[http://iworx.it/contact].
